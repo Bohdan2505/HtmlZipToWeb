@@ -1,5 +1,5 @@
 
-Про застосунок / About app [Englisg](#english)
+Про застосунок / About app [(English readme)](#english)
 ==========================
 
 # **Українською**
