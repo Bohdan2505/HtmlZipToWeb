@@ -12,7 +12,8 @@
 ## **Що це?** 
 Це простий і зручний у використанні застосунок для перегляду HTML веб-проєктів, включно з файлами JavaScript, CSS та медіа. Він дозволяє відкривати локальні веб-карти (на базі Leaflet, OpenLayers, Mapbox) або звичайні HTML-сторінки, які упаковані в .zip архів. 
 
-## **Чому цей додаток створено?** На Android немає простої можливості відкривати HTML-файли з усіма супутніми файлами так само, як на Windows, Linux чи macOS. Наявні додатки з цим функціоналом переважно орієнтовані на веб-розробку і мають складний інтерфейс. Цей додаток пропонує легкий перегляд локальних веб-файлів без зайвих налаштувань. 
+## **Чому цей додаток створено?**
+На Android немає простої можливості відкривати HTML-файли з усіма супутніми файлами так само, як на Windows, Linux чи macOS. Наявні додатки з цим функціоналом переважно орієнтовані на веб-розробку і мають складний інтерфейс. Цей додаток пропонує легкий перегляд локальних веб-файлів без зайвих налаштувань. 
 
 ## **Як користуватись?**
 ### **1\. Створіть проєкт**
@@ -43,7 +44,8 @@
 ## **What is it?** 
 This is a simple and easy-to-use application for viewing HTML web projects, including JavaScript, CSS, and media files. It allows you to open local web maps (based on Leaflet, OpenLayers, Mapbox) or regular HTML pages that are packed in a .zip archive. 
 
-## **Why was this app created?** On Android, there is no easy way to open HTML files with all the associated files in the same way as on Windows, Linux, or macOS. Existing apps with this functionality are mostly focused on web development and have a complex interface. This app offers an easy way to browse local web files without any extra settings. 
+## **Why was this app created?** 
+On Android, there is no easy way to open HTML files with all the associated files in the same way as on Windows, Linux, or macOS. Existing apps with this functionality are mostly focused on web development and have a complex interface. This app offers an easy way to browse local web files without any extra settings. 
 
 ## **How to use?**
 
