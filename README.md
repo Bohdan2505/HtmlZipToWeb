@@ -3,8 +3,8 @@
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
 
 ## Встановлення / Install
-Для встановлення застосунку завантаж apk файл з останнього релізу 
-To install the application, download the apk file from the latest release
+* Для встановлення застосунку завантаж apk файл з останнього релізу  
+* To install the application, download the apk file from the latest release
 
 ## Created with Android Studio
 
