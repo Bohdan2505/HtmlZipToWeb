@@ -9,8 +9,12 @@
 -----------------------------------------------------------------
 ## Створюй веб-проєкти, стискай у .zip і переглядай прямо в додатку!
 
+## Автори проєкту
+Організатор розробки, автор ідеї - [Bohdan2505](https://github.com/Bohdan2505). Основний розробник - ![systnager](https://github.com/systnager)
+Є пропозиції або знайшли проблему? Створіть Issue або напишіть лист на електронну адресу bogdan.zhuravel.00@gmail.com з зазначенням назви додатку "HtmlZipToWeb" в темі 
+
 ## **Що це?** 
-Це простий і зручний у використанні застосунок для перегляду HTML веб-проєктів, включно з файлами JavaScript, CSS та медіа. Він дозволяє відкривати локальні веб-карти (на базі Leaflet, OpenLayers, Mapbox) або звичайні HTML-сторінки, які упаковані в .zip архів. 
+Це простий і зручний у використанні Android застосунок для перегляду HTML веб-проєктів, включно з файлами JavaScript, CSS та медіа. Він дозволяє відкривати локальні веб-карти (на базі Leaflet, OpenLayers, Mapbox) або звичайні HTML-сторінки, які упаковані в .zip архів. 
 
 ## **Чому цей додаток створено?**
 На Android немає простої можливості відкривати HTML-файли з усіма супутніми файлами так само, як на Windows, Linux чи macOS. Наявні додатки з цим функціоналом переважно орієнтовані на веб-розробку і мають складний інтерфейс. Цей додаток пропонує легкий перегляд локальних веб-файлів без зайвих налаштувань. 
@@ -41,8 +45,12 @@
 # **About app**
 ## Create web projects, compress them to .zip, and view them right in the app!
 
+## Authors of the project
+Development organizer, author of the idea - [Bohdan2505] (https://github.com/Bohdan2505). The main developer is ![systnager](https://github.com/systnager)
+Have any suggestions or found a problem? Create an Issue or write an email to bogdan.zhuravel.00@gmail.com with the name of the application “HtmlZipToWeb” in the subject line 
+
 ## **What is it?** 
-This is a simple and easy-to-use application for viewing HTML web projects, including JavaScript, CSS, and media files. It allows you to open local web maps (based on Leaflet, OpenLayers, Mapbox) or regular HTML pages that are packed in a .zip archive. 
+This is a simple and easy-to-use Android application for viewing HTML web projects, including JavaScript, CSS, and media files. It allows you to open local web maps (based on Leaflet, OpenLayers, Mapbox) or regular HTML pages that are packed in a .zip archive. 
 
 ## **Why was this app created?** 
 On Android, there is no easy way to open HTML files with all the associated files in the same way as on Windows, Linux, or macOS. Existing apps with this functionality are mostly focused on web development and have a complex interface. This app offers an easy way to browse local web files without any extra settings. 
