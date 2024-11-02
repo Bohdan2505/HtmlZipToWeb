@@ -1,8 +1,8 @@
 HtmlZipToWeb
 
-![Logo](https://github.com/[username]/[reponame]/blob/[branch]/banner.jpg?raw=true)
+![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_logo.png?raw=true)
 
-![Banner](https://github.com/[username]/[reponame]/blob/[branch]/app_banner.png?raw=true)
+![Banner]([https://github.com/[username]/[reponame]/blob/[branch]/app_banner.png?raw=true](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true))
 
 # Зміст/Content
 1. Про застосунок / About app
