@@ -1,11 +1,9 @@
-HtmlZipToWeb
-
-![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_icon.png?raw=true)
+# HtmlZipToWeb
 
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
 
 # Зміст/Content
-1. Про застосунок / About app
+## **1\. [Про застосунок](#українською) \ [About app](#english) **
 
 Про застосунок / About app [(English readme)](#english)
 ==========================
@@ -79,6 +77,7 @@ Add the archive and view your web project.
 *   Geolocation is available for navigation in your web maps and can be disabled in the settings.
     
 
+![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_icon.png?raw=true)
 ## **Terms of use** 
 You are free to use the application for your personal needs without violating the current legislation. The authors don't not provide any guarantees and is not responsible for the use of the application.
 
