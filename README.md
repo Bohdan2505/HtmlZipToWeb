@@ -24,8 +24,8 @@
 Помістіть файли у корінь .zip архіву для правильного відображення у додатку.
 ### **3\. Переглядайте у додатку**
 Додайте архів і переглядайте свій веб-проєкт. 
-
 ## **Приватність**
+
 *   Додаток не збирає та не передає жодних даних. Жодної передачі чи аналізу поза межами пристрою не відбувається. 
 *   Геолокація доступна для навігації у ваших веб-картах і може бути вимкнена у налаштуваннях.
 
@@ -35,8 +35,10 @@
 
 ## Create web projects, compress them to .zip, and view them right in the app!
 
-### **What is it?** 
-This is a simple and easy-to-use application for viewing HTML web projects, including JavaScript, CSS, and media files. It allows you to open local web maps (based on Leaflet, OpenLayers, Mapbox) or regular HTML pages that are packed in a .zip archive. **Why was this app created?** On Android, there is no easy way to open HTML files with all the associated files in the same way as on Windows, Linux, or macOS. Existing apps with this functionality are mostly focused on web development and have a complex interface. This app offers an easy way to browse local web files without any extra settings. **How to use.**
+## **What is it?** 
+This is a simple and easy-to-use application for viewing HTML web projects, including JavaScript, CSS, and media files. It allows you to open local web maps (based on Leaflet, OpenLayers, Mapbox) or regular HTML pages that are packed in a .zip archive. **Why was this app created?** On Android, there is no easy way to open HTML files with all the associated files in the same way as on Windows, Linux, or macOS. Existing apps with this functionality are mostly focused on web development and have a complex interface. This app offers an easy way to browse local web files without any extra settings. 
+
+## **How to use.**
 
 ### **1\. Create a project**
 Develop a web project or collect the necessary files that can be viewed in a regular web browser (without additional services like Node.js or PHP).  
