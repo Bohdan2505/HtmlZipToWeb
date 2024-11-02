@@ -90,7 +90,7 @@ Develop a web project or collect the necessary files that can be viewed in a reg
 **Examples:**  
 *   web maps (Leaflet, OpenLayers, Mapbox);
 *   simple HTML pages.
-: index.html. **IMPORTANT:**The main the file to be opened in the application should be called **index.html**.
+**IMPORTANT:** The main the file to be opened in the application should be called **index.html**.
 ### **2\. Compress to .zip**
 Place the files in the root of the .zip archive for proper display in the application.
 ### **3\. View in the application**
