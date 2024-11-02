@@ -2,10 +2,37 @@
 -----------------------------------------------------------------
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
 
-Для встановлення застосунку завантаж apk файл з останнього релізу / To install the application, download the apk file from the latest release
+## Встановлення / Install
+Для встановлення застосунку завантаж apk файл з останнього релізу 
+To install the application, download the apk file from the latest release
+
+## Created with Android Studio
+
+## Примітка / Note
+Якщо у Вашому веб проєкті є потреба в завантаженні файлів на пристрій, то на даний момент в додатку реалізований JavascriptInterface лише для завантаження текстових файлів. Для коректного завантаження в JS використовуйте функцію This.requestDirectory(file_name, your_text_content), приклад:
+```js
+const file_name = 'New.txt'
+const txt_content = ''
+if (This) {
+This.requestDirectory(file_name, txt_content)
+}
+```
+Автори розуміють, що це "милиці", але через брак досвіду іншого способу реалізації не знайшли. Якщо можеш допомогти вирішити проблему, повідом нас через Issue або на електронну адресу bogdan.zhuravel.00@gmail.com з зазначенням назви додатку "HtmlZipToWeb" в темі листа
+
+If your web project needs to download files to the device, the application currently implements the JavascriptInterface only for downloading text files. For correct uploading in JS, use the This.requestDirectory(file_name, your_text_content) function, for example:
+```js
+const file_name = 'New.txt'
+const txt_content = ''
+if (This) {
+This.requestDirectory(file_name, txt_content)
+}
+```
+The authors realize that this is a crutch, but due to lack of experience, they have not found another way to implement it. If you can help solve the problem, please let us know via Issue or email bogdan.zhuravel.00@gmail.com with the name of the application “HtmlZipToWeb” in the subject line
+
 -----------------------------------------------------------------
 # Про застосунок [(English version)](#about-app)
 ![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_icon.png?raw=true)
+
 -----------------------------------------------------------------
 ## Створюй веб-проєкти, стискай у .zip і переглядай прямо в додатку!
 
