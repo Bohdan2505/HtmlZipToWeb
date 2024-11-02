@@ -10,7 +10,7 @@
 ## Створюй веб-проєкти, стискай у .zip і переглядай прямо в додатку!
 
 ## Автори проєкту
-Організатор розробки, автор ідеї - [Bohdan2505](https://github.com/Bohdan2505). Основний розробник - ![systnager](https://github.com/systnager)
+Організатор розробки, автор ідеї - [Bohdan2505](https://github.com/Bohdan2505). Основний розробник - [systnager](https://github.com/systnager).
 Є пропозиції або знайшли проблему? Створіть Issue або напишіть лист на електронну адресу bogdan.zhuravel.00@gmail.com з зазначенням назви додатку "HtmlZipToWeb" в темі 
 
 ## **Що це?** 
@@ -46,7 +46,7 @@
 ## Create web projects, compress them to .zip, and view them right in the app!
 
 ## Authors of the project
-Development organizer, author of the idea - [Bohdan2505] (https://github.com/Bohdan2505). The main developer is ![systnager](https://github.com/systnager)
+Development organizer, author of the idea - [Bohdan2505] (https://github.com/Bohdan2505). The main developer is ![systnager](https://github.com/systnager).
 Have any suggestions or found a problem? Create an Issue or write an email to bogdan.zhuravel.00@gmail.com with the name of the application “HtmlZipToWeb” in the subject line 
 
 ## **What is it?** 
