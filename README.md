@@ -3,10 +3,9 @@
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
 
 -----------------------------------------------------------------
-# Про застосунок / [About app (English version)](#english)
+# Про застосунок [(English version)](#english)
 ![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_icon.png?raw=true)
 -----------------------------------------------------------------
-# **Українською**
 ## Створюй веб-проєкти, стискай у .zip і переглядай прямо в додатку!
 
 ## **Що це?** 
@@ -38,7 +37,7 @@
 
 
 
-# **English**
+# **About app**
 ## Create web projects, compress them to .zip, and view them right in the app!
 
 ## **What is it?** 
