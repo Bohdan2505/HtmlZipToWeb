@@ -1,9 +1,7 @@
 # HtmlZipToWeb
 -----------------------------------------------------------------
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
------------------------------------------------------------------
-# Зміст/Content
-## **1\. [Про застосунок](#українською) / [About app](#english)**
+
 -----------------------------------------------------------------
 # Про застосунок / [About app (English version)](#english)
 ![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_icon.png?raw=true)
