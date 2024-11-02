@@ -2,8 +2,9 @@
 -----------------------------------------------------------------
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
 
+Для встановлення застосунку завантаж apk файл з останнього релізу / To install the application, download the apk file from the latest release
 -----------------------------------------------------------------
-# Про застосунок [(English version)](#english)
+# Про застосунок [(English version)](#about-app)
 ![Logo](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_icon.png?raw=true)
 -----------------------------------------------------------------
 ## Створюй веб-проєкти, стискай у .zip і переглядай прямо в додатку!
