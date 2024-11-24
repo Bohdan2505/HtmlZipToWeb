@@ -18,7 +18,7 @@ if (This) {
 This.requestDirectory(file_name, txt_content)
 }
 ```
-Автори розуміють, що це "милиці", але через брак досвіду іншого способу реалізації не знайшли. Якщо можеш допомогти вирішити проблему, повідом нас через Issue або на електронну адресу bogdan.zhuravel.00@gmail.com з зазначенням назви додатку "HtmlZipToWeb" в темі листа
+Автори розуміють, що це "милиці", але через брак досвіду іншого способу реалізації не знайшли. Якщо можеш допомогти вирішити проблему, повідом нас через Issue або на електронну адресу zhuravel.developer.communicate@gmail.com з зазначенням назви додатку "HtmlZipToWeb" в темі листа
 ### English
 If your web project needs to download files to the device, the application currently implements the JavascriptInterface only for downloading text files. For correct uploading in JS, use the This.requestDirectory(file_name, your_text_content) function, for example:
 ```js
@@ -28,7 +28,7 @@ if (This) {
 This.requestDirectory(file_name, txt_content)
 }
 ```
-The authors realize that this is a crutch, but due to lack of experience, they have not found another way to implement it. If you can help solve the problem, please let us know via Issue or email bogdan.zhuravel.00@gmail.com with the name of the application “HtmlZipToWeb” in the subject line
+The authors realize that this is a crutch, but due to lack of experience, they have not found another way to implement it. If you can help solve the problem, please let us know via Issue or email zhuravel.developer.communicate@gmail.com with the name of the application “HtmlZipToWeb” in the subject line
 
 -----------------------------------------------------------------
 # Про застосунок [(English version)](#about-app)
