@@ -23,9 +23,9 @@ This.requestDirectory(file_name, txt_content)
 If your web project needs to download files to the device, the application currently implements the JavascriptInterface only for downloading text files. For correct uploading in JS, use the This.requestDirectory(file_name, your_text_content) function, for example:
 ```js
 const file_name = 'New.txt'
-const txt_content = ''
-if (This) {
-This.requestDirectory(file_name, txt_content)
+const txt_content = 'TEXT CONTENT'
+if (IntegratedWebJSInterface) {
+IntegratedWebJSInterface.requestDirectory(file_name, txt_content)
 }
 ```
 The authors realize that this is a crutch, but due to lack of experience, they have not found another way to implement it. If you can help solve the problem, please let us know via Issue or email zhuravel.developer.communicate@gmail.com with the name of the application “HtmlZipToWeb” in the subject line
