@@ -3,6 +3,12 @@
 ![Banner](https://github.com/Bohdan2505/HtmlZipToWeb/blob/main/app_banner.png?raw=true)
 
 ## Встановлення / Install
+* Доступно в Google Play
+* Get it on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.bohdan2505.htmlziptoweb"><p align='center'>
+ <img width='600' height='400' src='https://i.gadgets360cdn.com/large/google_play_1559395346287.jpg'>
+</p></a>
+### АБО / OR 
 * Для встановлення застосунку завантаж apk файл з останнього релізу  
 * To install the application, download the apk file from the latest release
 
